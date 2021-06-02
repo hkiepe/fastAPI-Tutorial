@@ -1,0 +1,4 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "fastapi-env\\Scripts\\python.exe"
+}
