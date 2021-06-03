@@ -1,4 +1,5 @@
 __pycache__
+./Blog/__pycache__
 fastapi-env
 blog-env
 .DS_Store
