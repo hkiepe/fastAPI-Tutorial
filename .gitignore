@@ -5,3 +5,4 @@ blog-env
 .DS_Store
 .vscode
 .gitignore
+app/.deta
